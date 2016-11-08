@@ -108,8 +108,8 @@
             transform: none;
   }
   .page-view .bullets .arrow.next:hover {
-    -webkit-transform: translate3d(0, 0, 0) rotate(180deg);
-            transform: translate3d(0, 0, 0) rotate(180deg);
+    -webkit-transform: none;
+            transform: none;
   }
 }
 
